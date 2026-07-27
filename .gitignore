@@ -1,0 +1,10 @@
+.venv/
+
+# Arquivos de dados
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.sav
+PNS_2013.csv
+pns2019.csv
