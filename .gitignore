@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Logs de treino de modelos (CatBoost, etc.)
+catboost_info/
+
+# Arquivos de dados
+*.csv
+*.zip
+*.xlsx
+*.xls
+*.sav
+pns2019.csv
